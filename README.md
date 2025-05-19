@@ -33,7 +33,7 @@ uv sync
 #Windows
 .\.venv\Scripts\activate
 # execute this in root of the project
-streamlit run .\src\applications\document-rag\app.py
+streamlit run .\src\applications\document_rag\app.py
 ```
 
 #### Run tests
